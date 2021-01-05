@@ -11,5 +11,5 @@ deploy:
   space: sandbox
   on:
     repo: RoweIT/ccs-esourcing-tenders-api
-    branch: main
+    branch: sandbox
   skip_cleanup: 'true'
